@@ -1,0 +1,13 @@
+{
+  "name": "bcbs-pdx-template",
+  "version": "0.1.0",
+  "type": "fhir.template",
+  "license": "not-open-source",
+  "description": "BCBS PDX FHIR Template",
+  "author": "http://bcbsa.com",
+  "canonical": "http://bcbsa.com/templates/bcbs.pdx.fhir.template",
+  "base": "fhir.base.template",
+  "dependencies": {
+    "fhir.base.template": "current"
+  }
+}

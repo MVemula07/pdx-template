@@ -1,0 +1,15 @@
+﻿{
+  "package-id": "bcbs.fhir.template",
+  "title": "Template for FHIR IGs published by BCBS",
+  "canonical": "http://fhir.org/templates/bcbs.fhir.template",
+  "introduction": "This is the template for FHIR guides published by BCBS",
+  "list": [
+    {
+      "version": "current",
+      "desc": "Continuous Integration Build (latest in version control)",
+      "path": "https://build.fhir.org/ig/BCBS/bcbs-ig-template",
+      "status": "update",
+      "current": true
+    }
+  ]
+}

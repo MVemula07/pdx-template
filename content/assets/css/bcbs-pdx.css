@@ -1,0 +1,57 @@
+/* #segment-header > .container {
+  background-color: #0094d7;
+}*/
+
+:root {
+  --ig-status-text-color: #003259; /* 1. IG Title and status text color */
+  --navbar-bg-color: #006086; /* 2. Header container color */
+  --footer-container-color: #a9a9a9; /* 4. Footer container color */
+/*  --footer-container-color: lightgray; /* 4. Footer container color */
+/*  --footer-container-text-color: #000000; /* Footer text color */
+  --btn-hover-color: #cce1ec; /* 6. Menu button hover color */
+  --btn-active-color: #cce1ec; /* 7. Menu button active color */
+  --btn-text-color: white; /* 8. Menu button text color */
+  --btn-gradient-start-color: #003359; /* 9. Menu item gradient start color) */
+  --btn-gradient-end-color: #003359; /* 10. Menu item gradient end color */
+  --publish-box-bg-color: #ffffff; /* 15. Publish box background color */
+  --publish-box-border: 3px solid #ffda6b; /* 16. Publish box border definition */
+  --toc-box-bg-color: #ffffff; /* 17. TOC box background color */
+  --toc-box-border: 3px solid #ffda6b; /* 18. TOC box border definition */
+/*  --ig-status-text-color: #0094d7; /* 1. IG Title and status text color */
+/*  --stripe-bg-color: #006086; /* 5. Header strip color */
+/*  --footer-bg-color: #666e68; /* 3. Footer background color*/
+/*  --btn-gradient-start-color: #33aa77; /* 9. Menu item gradient start color */
+/*  --btn-gradient-end-color: #209966; /* 10. Menu item gradient end color */
+/*  --btn-gradient-start-color-alpha: #ff33aa77; /* 11. Menu item gradient start color (with alpha) */
+/*  --btn-gradient-end-color-alpha: #ff209966; /* 12. Menu item gradient end color (with alpha) */
+/*  --link-color: #208050; /* 13. Hyperlink text color */
+/*  --link-hover-color: #109030; /* 14. Hyperlink text hover color */
+/*  --stu-note-background-color: #ffccbb; /* 19. (STU) Note box background color */
+/*  --stu-note-border-left-color: #ff6020; /* 20. (STU) Note box border color */
+}
+
+img{
+  max-width:1440px;
+}
+
+.navbar .nav > li > a {
+  font-weight: bold;
+}
+
+.dropdown-menu > li > a {
+  font-weight: normal;
+}
+
+.pdx-nonbordered-table td, table {
+  border: none;
+  padding: 6px 6px;
+}
+
+.pdx-nonbordered-table th {
+  border: none;
+}
+
+.pdx-bordered-table table, td, th  {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
