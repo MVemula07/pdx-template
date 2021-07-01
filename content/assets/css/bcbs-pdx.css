@@ -6,7 +6,7 @@
   --ig-status-text-color: #003259; /* 1. IG Title and status text color */
   --navbar-bg-color: #006086; /* 2. Header container color */
   --footer-container-color: #a9a9a9; /* 4. Footer container color */
-/*  --footer-container-color: lightgray; /* 4. Footer container color */
+  --footer-container-color: lightgray; /* 4. Footer container color */
 /*  --footer-container-text-color: #000000; /* Footer text color */
   --btn-hover-color: #cce1ec; /* 6. Menu button hover color */
   --btn-active-color: #cce1ec; /* 7. Menu button active color */
