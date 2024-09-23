@@ -5,13 +5,12 @@
   "introduction": "This is the template for FHIR guides published by BCBS",
   "list": [
      {
-        "version": "2.4",
+        "version": "current",
         "date": "2019-11-10",
         "desc": "BCBS BPD, Release 2.41 - STU",
         "path": "https://build.fhir.org/ig/BCBS/bcbs-ig-template/2021June",
         "status": "trial-use",
-        "sequence": "STU 1",
-        "fhirversion": "4.0.1"
+        "current": "true"
       }
   ]
 }
