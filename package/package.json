@@ -7,7 +7,7 @@
   "author": "http://bcbsa.com",
   "canonical": "http://bcbsa.com/templates/bcbs.bpd.fhir.template",
   "base": "fhir.base.template",
-  "dependencies": {
-     "fhir.base.template": "current"
+    "dependencies": {
+     "fhir.base.template": "0.8.0"
   }
 }
