@@ -8,7 +8,7 @@
   "canonical": "http://bcbsa.com/templates/bcbs.bpd.fhir.template",
   "base": "fhir.base.template",
     "dependencies": {
-     "fhir.base.template": "0.5.0",
+     "fhir.base.template": "0.6.0",
       "hl7.fhir.uv.extensions.r4": "5.2.0",
        "hl7.fhir.r4.core": "4.0.1",
     "hl7.fhir.us.core": "4.1.0"
