@@ -10,7 +10,7 @@
     "dependencies": {
      "fhir.base.template": "0.6.0",
       "hl7.terminology.r4": "6.5.0",
-      "hl7.fhir.uv.extensions.r4": "5.2.0",
+      "hl7.fhir.uv.extensions.r4": "1.0.0",
        "hl7.fhir.r4.core": "4.0.1",
     "hl7.fhir.us.core": "4.1.0"
     },
