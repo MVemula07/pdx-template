@@ -57,5 +57,7 @@ img{
 }
 #ig-status {
   text-align: center;
+  margin: 20px auto;
+  white-space: nowrap;
 }
 
