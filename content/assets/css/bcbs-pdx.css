@@ -60,4 +60,9 @@ img{
   margin: 20px auto;
   white-space: nowrap;
 }
+#ig-status span {
+  font-size: 16pt;
+  font-weight: bold;
+  display: inline-block;
+}
 
