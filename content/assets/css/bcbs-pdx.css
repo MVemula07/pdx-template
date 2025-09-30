@@ -56,13 +56,14 @@ img{
   border-collapse: collapse;
 }
 #ig-status {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   text-align: center;
-  margin: 20px auto;
   white-space: nowrap;
+  margin: 20px auto;
 }
-#ig-status span {
-  font-size: 16pt;
-  font-weight: bold;
-  display: inline-block;
-}
+
+
 
